@@ -1,0 +1,5 @@
+holidays
+tweepy
+openai
+pytz
+python-dotenv
